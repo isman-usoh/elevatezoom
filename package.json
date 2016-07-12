@@ -1,0 +1,23 @@
+{
+  "name": "@zeitiger/elevatezoom",
+  "version": "2.5.4",
+  "description": "[jQuery Zoom Plugin](http://www.elevateweb.co.uk/image-zoom/) ================================",
+  "main": "jquery.elevatezoom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeitiger/elevatezoom.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeitiger/elevatezoom/issues"
+  },
+  "homepage": "https://github.com/zeitiger/elevatezoom#readme"
+}
